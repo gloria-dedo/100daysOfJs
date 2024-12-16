@@ -7,3 +7,5 @@ Practical Projects: Building small to medium-sized projects to apply what I've l
 Daily Logs: Documenting my learning process, challenges faced, and key takeaways.
 
 ## How to Use
+clone 
+https://github.com/gloria-dedo/100daysOfJs.git
